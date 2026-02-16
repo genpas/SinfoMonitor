@@ -10,7 +10,7 @@ sites:
   - name: srd03
     url: http://srd03.resto-drive.fr
   - name: Test Alerte Telegram
-    url: https://site-qui-n-existe-pas-123456.com
+    url: https://www.google.fr #site-qui-n-existe-pas-123456.com
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
