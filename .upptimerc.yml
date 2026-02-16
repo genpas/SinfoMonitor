@@ -9,6 +9,9 @@ sites:
     url: https://lirenligne.net
   - name: srd03
     url: http://srd03.resto-drive.fr
+  - name: Test Alerte Telegram
+    url: https://site-qui-n-existe-pas-123456.com
+    method: GET    
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
